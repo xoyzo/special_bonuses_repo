@@ -1,7 +1,7 @@
 # Installation
 ```toml
 [[ballsdex.packages]]
-location = "git+https://github.com/yourname/special_bonuses.git@v1.0.0"
+location = "git+https://github.com/xoyzo/special_bonuses.git@v1.0.0"
 path = "special_bonuses"
 enabled = true
 ```
